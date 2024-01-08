@@ -84,3 +84,11 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid #fff;
+  width: 300px;
+  height: 300px;
+}
